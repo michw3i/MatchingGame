@@ -1,0 +1,11 @@
+NUM_OF_SQUARES = 50  # 144 total squares in window
+SQ_LENGTH = 10
+MAX_FPS = 30
+NUM_OF_SHEEP = 50
+NUM_OF_WOLF = 3
+NUM_OF_HUNTER = 2
+INITIAL_SHEEP_ENERGY = 30
+INITIAL_WOLF_ENERGY = 50
+INITIAL_HUNTER_ENERGY = 70
+MAX_GRASS_GRAZES = 5  # how many times the sheep can graze
+GRASS_REFRESH_RATE = 50  # after 10 frames, grass will regrow 1 energy
